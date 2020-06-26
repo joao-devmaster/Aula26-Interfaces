@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\bin\Debug\netcoreapp3.1\Aula26Interfaces.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula26Interfaces\obj\Debug\netcoreapp3.1\Aula26Interfaces.genruntimeconfig.cache
